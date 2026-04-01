@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm [João / Astr0](https://github.com/Astr0byte) ! A aspiring software development junior who enjoys problem solving and turning ideas into real, working solutions.
+I'm [João / Astr0](https://github.com/Astr0byte) ! A aspiring software developer who enjoys problem solving and turning ideas into real, working solutions.
 
 I have always been naturally drawn to problem-solving, whether it's debugging code, improving a workflow, or building something from scratch that actually makes life easier. I come from a background of messing with hardware and got into coding by creating tools for my own needs, over time that grew into a passion for building things that others can use too.
 
